@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: lightpink;
+  background-color: #f9c4b8;
 }
 
 .navbar-collapse {
@@ -26,12 +26,12 @@ h1 {
 
 .seccion-oscura {
   color: black;
-  background-color:lightcyan;
+  background-color:#f1bcec;
 }
 
 .seccion-clara {
   color: black;
-  background-color: white;
+  background-color:#d6d1af;
 }
 
 .seccion-titulo {
@@ -42,7 +42,7 @@ h1 {
 
 .seccion-descripcion {
   font-size: 1.2rem;
-  color:darkred;
+  color:#f4065e;
 }
 
 .seccion-texto {
@@ -65,7 +65,7 @@ h1 {
 /* Seccion Hero */
 
 .hero {
-  background-color: #f5f6f7;
+  background-color:#d3a095;
   min-height: 450px;
   text-align: center;
 }
@@ -114,14 +114,14 @@ h1 {
 }
 
 .experiencia .columna:hover {
-  color: white;
-  background-color: #1b1b32;
+  color: #f4065e;
+  background-color: #d0dcb3;
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #7ade30;
-  background-color: #0a0a23;
+  color: #f4065e;
+  background-color: #ff97ca;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -252,7 +252,7 @@ h1 {
 
 .testimonio-info .cargo {
   font-size: 0.9rem;
-  color: #656060;
+  color: #6f0550;
 }
 
 /* Contacto */
@@ -265,7 +265,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color:blueviolet;
+  background-color:#bf8e83;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -282,7 +282,7 @@ h1 {
 }
 
 .contacto button {
-  color: white;
+  color: #f198ef;
   font-weight: bold;
   background-color: transparent;
   border: 2px solid white;
@@ -298,7 +298,7 @@ h1 {
 }
 
 .contacto button i {
-  color: white;
+  color: #f4065e;
   font-size: 1.3rem;
   transition: all 0.2s ease-in-out;
 }
@@ -346,8 +346,8 @@ footer {
 }
 
 .iconos-redes-sociales a:hover {
-  background-color: black;
-  border: 2px solid purple;
+  background-color: #bf8e83;
+  border: 2px solid rgb(151, 49, 151);
 }
 
 .iconos-redes-sociales a:hover i {
@@ -394,3 +394,4 @@ footer {
     max-width: 600px;
   }
 }
+
